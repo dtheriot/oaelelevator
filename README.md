@@ -1,7 +1,6 @@
 # oaelelevator
 
-To execute, build project with maven and execute jar passing in arguments from command line
-There is a sample shell script in the /bin folder
+To execute, build project with maven and execute jar passing in arguments from command line. There is a sample shell script in the /bin folder.
 
 For example:
 
